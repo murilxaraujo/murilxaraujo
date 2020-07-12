@@ -8,7 +8,7 @@
 
 ## Olá 👋, Sejam Bem-Vindxs!
 
-### Meu nome é Murilo Araujo, apaixonado pelo desenvolvimento mobile iOS!
+### Meu nome é Murilo Araujo, apaixonado por desenvolvimento mobile iOS!
 
 - :round_pushpin: Natural de Goiânia-GO.
 - 🎓 Cursando Ciência da Computação @ UFG.
