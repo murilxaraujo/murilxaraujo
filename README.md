@@ -12,4 +12,4 @@
 
 - :round_pushpin: Natural de Goiânia-GO.
 - 🎓 Cursando Ciência da Computação @ UFG.
-- 🚀 Desenvolvedor mobile iOS @ LG.
+- 🚀 Desenvolvedor iOS Sênior @ Zup Innovation.
