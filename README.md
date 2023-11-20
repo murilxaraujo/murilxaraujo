@@ -12,7 +12,7 @@
 
 - :round_pushpin: Natural de Goiânia-GO.
 - 🎓 Cursando Ciência da Computação @ UFG.
-- 🚀 Desenvolvedor iOS Sênior @ Zup Innovation.
+- 🚀 Desenvolvedor iOS Especialista @ C6 Bank.
 
 ![Kadu's github stats](https://github-readme-stats.vercel.app/api?username=murilxaraujo&show_icons=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=murilxaraujo&layout=compact)
