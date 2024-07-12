@@ -6,13 +6,12 @@
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=for-the-badge&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5562993324224&text=Olá!)](https://api.whatsapp.com/send?phone=5562993324224&text=Olá!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:murilo@muriloaraujo.com)](mailto:murilo@muriloaraujo.com)
 
-## Olá 👋, Sejam Bem-Vindxs!
+## Hi 👋, Welcome to my GITHUB!
 
-### Meu nome é Murilo Araujo e sou apaixonado por desenvolvimento mobile iOS!
+### I'm Murilo Araujo
 
-- :round_pushpin: Natural de Goiânia-GO.
-- 🎓 Cursando Ciência da Computação @ UFG.
-- 🚀 Desenvolvedor iOS Especialista @ C6 Bank.
+- :round_pushpin: Born in Goiânia-GO.
+- 🚀 iOS Engineer @ Pinterest through BairesDev.
 
 ![Kadu's github stats](https://github-readme-stats.vercel.app/api?username=murilxaraujo&show_icons=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=murilxaraujo&layout=compact)
